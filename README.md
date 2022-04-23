@@ -26,4 +26,4 @@ Trovate due ottimi **Editor di Teletext** Online a questi link:
 
 Una Guida su alcune funzioni principali sarà disponibile a breve nella nostra WIKI.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![TVideo Stats](https://github-readme-stats.vercel.app/api?username=Borededdy&show_icons=true&theme=gruvbox)
