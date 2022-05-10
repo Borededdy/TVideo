@@ -1,6 +1,6 @@
 # 📺 TVideo
 
-##VERSIONE ONLINE [DISPONIBILE QUI](ceppo.xyz/teletext)
+## VERSIONE ONLINE [DISPONIBILE QUI](ceppo.xyz/teletext)
 
 ![P100-0011](https://user-images.githubusercontent.com/83037613/164944254-56e25f3f-d371-4621-a935-20b22ad22b04.png)
 
