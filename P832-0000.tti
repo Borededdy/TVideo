@@ -1,0 +1,25 @@
+DE,TeleRent Teletext
+PS,8300
+PN,83200
+SC,0000
+RE,0
+OL,1,Q 8.ss-t  n=$|,|j5|,|     pppppppppppppp
+OL,2,Q:i6u j5 ssj5ss `0 GPer Pubblicit{
+OL,3,Q5{5ssss#sscss3ss3o?/   EPUBLIROSE  
+OL,4,Qm:e7   j7 j=.% }j5 Gtel.0245712326
+OL,5,Q +vssy'    *% *//%/ /*%  ##############
+OL,7,Q]       DINDICE SICILIA TELETEXT       
+OL,8,W]DNews.........A101 DMusica-lobri. A290
+OL,9,W]DCalcio.......A115 DProgrammi Tv. A330
+OL,10,W]DConcorsi.....A130 DMeteo........ A340
+OL,11,W]DUomini+ricchi     DOroscopo..... A350
+OL,12,W]Ddel mondo....A170 DCinema....... A400
+OL,13,W]DRaduni d'autoA180 DTeatri....... A425
+OL,14,W]DCosa cucino?.A190 DFarmacie..... A440
+OL,15,W]DAppuntamenti.A200 DSuperenalotto A450
+OL,16,W]DMercatini.....    DAmici in linea 600
+OL,17,W]DAntiquariato A250                    
+OL,18,W]DMostre.......A260                    
+OL,19,W]DFiere........A275                    
+OL,20,U]AM    linea amica/amicizia. D700      
+OL,22,R]DM  cartomanzia............650        
