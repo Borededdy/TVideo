@@ -27,5 +27,3 @@ Trovate due ottimi **Editor di Teletext** Online a questi link:
 - [Link 2](https://edit.tf/)
 
 Una Guida su alcune funzioni principali sarà disponibile a breve nella nostra WIKI.
-
-![TVideo Stats](https://github-readme-stats.vercel.app/api?username=Borededdy&show_icons=true&theme=gruvbox)
